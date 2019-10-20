@@ -6,7 +6,7 @@ import { Component, OnInit, } from '@angular/core';
     styleUrls: ['./encounter-nav.scss']
 })
 
-export class EncounterNav implements OnInit {
+export class EncounterNavComponent implements OnInit {
     constructor() { }
 
     ngOnInit() { }

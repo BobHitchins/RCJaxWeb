@@ -6,7 +6,7 @@ import { Component, OnInit, } from '@angular/core';
     styleUrls: ['./materials.scss']
 })
 
-export class Materials implements OnInit {
+export class MaterialsComponent implements OnInit {
     constructor() { }
 
     ngOnInit() { }
