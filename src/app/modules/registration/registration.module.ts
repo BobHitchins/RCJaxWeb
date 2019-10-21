@@ -14,4 +14,4 @@ import { RegistrationComponent } from './components/registration.component';
         RegistrationComponent
     ]
 })
-export class LinksModule { }
+export class RegistrationModule { }

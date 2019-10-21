@@ -28,7 +28,7 @@ const routes: Routes = [
   },
   {
     path: 'registration',
-    loadChildren: () => import('./modules/registration/registration.module').then(mod => NgModule.RegistrationModule)
+    loadChildren: () => import('./modules/registration/registration.module').then(mod => mod.RegistrationModule)
   },
   {
     path: '',

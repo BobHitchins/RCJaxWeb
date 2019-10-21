@@ -14,4 +14,4 @@ import { MembersComponent } from './components/members.component';
         MembersComponent
     ]
 })
-export class LinksModule { }
+export class MembersModule { }
