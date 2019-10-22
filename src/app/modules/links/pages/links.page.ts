@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-links-page',
+  selector: 'links-page',
   templateUrl: './links.page.html',
   styleUrls: ['./links.page.scss']
 })

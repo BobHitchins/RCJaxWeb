@@ -1,9 +1,9 @@
 import { Component, OnInit, } from '@angular/core';
 
 @Component({
-    selector: 'app-resolutions',
-    templateUrl: './resolutions.html',
-    styleUrls: ['./resolutions.scss']
+    selector: 'resolutions-component',
+    templateUrl: './resolutions.component.html',
+    styleUrls: ['./resolutions.component.scss']
 })
 
 export class ResolutionsComponent implements OnInit {

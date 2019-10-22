@@ -14,6 +14,13 @@ import { StructureComponent } from './components/structure.component';
         CommonModule,
         EncounterRoutingModule
     ],
-    declarations: [EncounterPage, CalendarComponent, CommitmentsComponent, EncounterNavComponent, MaterialsComponent, ResolutionsComponent, StructureComponent]
+    declarations: [
+        EncounterPage, 
+        CalendarComponent, 
+        CommitmentsComponent, 
+        EncounterNavComponent, 
+        MaterialsComponent, 
+        ResolutionsComponent, 
+        StructureComponent]
 })
 export class EncounterModule { }

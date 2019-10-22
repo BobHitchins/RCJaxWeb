@@ -1,13 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'formation',
+  selector: 'formation-component',
   templateUrl: './formation.component.html',
   styleUrls: ['./formation.component.css']
 })
 export class FormationComponent implements OnInit {
-  title = 'Formation';
-
   constructor() { }
 
   ngOnInit() { }
